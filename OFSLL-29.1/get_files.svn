@@ -1,0 +1,4 @@
+svn co --depth empty file:///repo/servicing/LMS/trunk svnfiles
+cd svnfiles
+svn copy file:///repo/servicing/LMS/trunk/Oracle/docs/deploy/LMS-162_deploy_instructions.txt@1481 LMS-162_deploy_instructions.txt
+svn copy file:///repo/servicing/LMS/trunk/Oracle/ofsllhd/Data/dml_upd_claims_attribute_hd.sql@1481 dml_upd_claims_attribute_hd.sql

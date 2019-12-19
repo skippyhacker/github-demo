@@ -1,0 +1,3 @@
+1. Execute below script as OFSLLTST user on OFSLLTST database. Please provide the output log file.
+
+   dml_upd_claims_attribute_hd.sql 
